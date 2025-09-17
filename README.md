@@ -1,1 +1,82 @@
-# Spotify-Wrapped
+# 🎙️🎵 Spotify Wrapped 2025 🎵🎙️ 
+
+Ainda estamos em setembro, mas é possível já descobrir - ou prever - os resultados que você verá no final de ano durante o seu **Spotify Wrapped**.
+
+A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando sons, artistas e álbuns mais ouvidos, total de tempo utilizando a plataforma e o número de músicas, álbuns e sons ouvidos.
+
+O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e manipulação dos dados, otimização dos dados e elaboração de queries analíticas. Todo o processo foi realizado em aproximadamente uma semana.
+
+## 🎯 Objetivos do Projeto
+
+O objetivo principal é descobrir, ainda em setembro, as informações fornecidas pelo Spotify no final de ano, durante o Wrapped. Além disso, pode-se destacar:
+- A aplicação, na prática, de conhecimentos de SQL e PowerBI;
+- A análise de um banco de dados com mais de 70K inserções;
+- A otimização do conhecimento prévio em SQL.
+
+## 👨‍💻 Tecnologias Utilizadas
+
+- **MySQL** – Modelagem, criação, escrita e otimização das queries e do banco de dados;
+- **Spotify** – Fonte dos dados utilizados no projeto;
+- **PowerBI** – Visualização dos dados;
+- **GitHub** – Organização e versionamento do projeto.
+
+## 💼 Estrutura do Projeto
+
+
+```
+Spotify-Wrapped/
+│
+├── README.md
+│
+├── Dados/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── Tables.sql # Criação das tabelas
+│ ├── Inserts.sql # Inserção dos dados
+│ ├── Indexes.sql # Índices para otimização da busca
+│ └── Updates.sql # Atualizações nos dados
+│
+├── Queries/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── Tables.sql # Criação das tabelas
+│ ├── Inserts.sql # Inserção dos dados
+│ ├── Indexes.sql # Índices para otimização da busca
+│ └── Updates.sql # Atualizações nos dados
+│
+├── Spotify Wrapped/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── Tables.sql # Criação das tabelas
+│ ├── Inserts.sql # Inserção dos dados
+│ ├── Indexes.sql # Índices para otimização da busca
+│ └── Updates.sql # Atualizações nos dados
+│
+├── Img/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── Album_artists.sql - Informações de álbuns e artistas;   
+│ ├── Album_least_tracks.sql - Álbuns com menos faixas
+│ ├── Albums_brazil_less_fifty_minutes.sql - Álbuns brasileiros com < 50 min
+│ ├── Albums_more_one_hour_less_twenty_tracks.sql - Álbuns com +1h e <20 faixas
+│ ├── Artists_number_songs.sql - Número de sons por artista
+│ ├── Longest_albums_time.sql - Álbuns com maior tempo de duração               
+│ ├── Longest_song_title.sql - Música com o maior título
+│ ├── Shortest_song_names.sql - 10 músicas com os menores títulos
+│ ├── Songs_album_less_one_hour.sql # Sons que fazem parte de álbuns com menos de uma hora
+│ ├── Songs_featured.sql - Sons que possuem participações
+│ └── Songs_groups.sql - Sons produzidos por grupos de artistas
+
+```
+
+## 🫂 Comentários pessoais
+Estou extremamente satisfeito com o resultado deste projeto, especialmente por ser meu segundo projeto individual na área de dados e o primeiro aplicando conhecimentos de PowerBI obtidos em diferentes cursos.
+
+<div align="center">
+<table>
+  <tr>
+    <td align="left">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0aW1zNGtia3o3d3hoMDEzazkzYXU5cTExbDVza2lobnNwdndjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qvx8tHCGkTD7Ib2SeQ/giphy.gif" width="575">
+    </td>
+    <td align="right">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcngzcTUwYTloZmxjZWJvdTJzbXlqaGIwbXVrZzN5bWx0ZDVyZWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="400">
+    </td>
+  </tr>
+</table>
+</div>
