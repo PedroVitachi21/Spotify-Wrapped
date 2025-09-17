@@ -19,9 +19,9 @@ O objetivo principal é descobrir, ainda em setembro, as informações fornecida
 ## 👨‍💻 Tecnologias Utilizadas
 
 - **Spotify** – Fonte dos dados utilizados no projeto;
-- **MySQL** – Modelagem e criação das queries e do projeto;
-- **PowerBI** – Modelagem e visualização dos dados;
-- **Git e GitHub** – Organização e versionamento do projeto.
+- **MySQL** – Modelagem dos dados e criação das queries;
+- **PowerBI** – Visualização e apresentação dos dados;
+- **Git e GitHub** – Organização, versionamento e publicação do projeto.
 
 ## 💼 Estrutura do Projeto
 
