@@ -35,10 +35,10 @@ Spotify-Wrapped/
 │
 ├── Queries/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Tables.sql # Criação das tabelas
-│ ├── Inserts.sql # Inserção dos dados
-│ ├── Indexes.sql # Índices para otimização da busca
-│ └── Updates.sql # Atualizações nos dados
+│ ├── Info_listened.sql # Informações sobre 2025
+│ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos
+│ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos   
+│ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
 │
 ├── Wrapped/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
