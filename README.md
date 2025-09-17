@@ -30,20 +30,21 @@ Spotify-Wrapped/
 │
 ├── README.md
 │
-├── Dados/
+├── MySQL/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Delete.sql # Script para deletar dados 
-│ ├── Streaming_history.csv # Arquivo com os dados
-│ └── Table.sql # Criação da tabela
+│ ├── Dados/
+│ │ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ │ ├── Delete.sql # Script para deletar dados 
+│ │ ├── Streaming_history.csv # Arquivo com os dados
+│ │ └── Table.sql # Criação da tabela
+│ ├── Queries/
+│ │ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ │ ├── Info_listened.sql # Informações sobre 2025
+│ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos
+│ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos   
+│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
 │
-├── Queries/
-│ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Info_listened.sql # Informações sobre 2025
-│ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos
-│ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos   
-│ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
-│
-├── Wrapped/
+├── Power BI/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
