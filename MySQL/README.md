@@ -1,16 +1,18 @@
 ## ❗Informações importantes
 
-Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados do Spotify.
+Esta pasta contém a parte do projeto feita através do **MySQL** para análise e criação do Spotify Wrapped.
 
 ⚠️ Vale ressaltar que todos os scripts são escritos em SQL e compatíveis com o MySQL. 
 
 ### Arquivos incluídos:
 
-`Info_listened.sql` - Mostra as informações relativas a horas ouvidas no ano;  
+`dados/`
 
-`Most_played_albums.sql` - Mostra os 10 álbuns mais ouvidos no ano;     
+Contém os arquivos de dados utilizados para popular as tabelas do banco. Aqui você encontrará:
 
-`Most_played_artists.sql` - Mostra os 10 artistas mais ouvidos no ano;     
+`queries/`
 
-`Most_played_songs.sql` - Mostra os 10 sons mais ouvidos no ano;     
+Contém as **consultas SQL** responsáveis por gerar os insights do Spotify Wrapped. Exemplos de queries incluídas:
 
+
+Cada query foi escrita para ser reutilizável e adaptável, facilitando a análise personalizada por usuário.
