@@ -45,7 +45,7 @@ Spotify-Wrapped/
 │ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
 │
 ├── Power BI/
-│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── README.md # Informações sobre o arquivo incluído na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
 │ ├── Indexes.sql # Índices para otimização da busca
