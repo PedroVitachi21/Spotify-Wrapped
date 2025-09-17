@@ -1,27 +1,15 @@
-Esta pasta contém consultas SQL utilizadas para explorar os dados coletados do Spotify.
+## ❗Informações importantes
 
-⚠️ Vale ressaltar que todos os scripts são escritos em SQL e compatíveis com o MySQL.
+Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados do Spotify.
 
-Arquivos incluídos:
-Album_artists.sql - Mostra os álbuns junto às informações dos artistas;
+⚠️ Vale ressaltar que todos os scripts são escritos em SQL e compatíveis com o MySQL. 
 
-Album_least_tracks.sql - Identifica os álbuns com o menor número de faixas;
+### Arquivos incluídos:
 
-Albums_brazil_less_fifty_minutes.sql - Mostra álbuns brasileiros com menos de 50 minutos de duração;
+`Info_listened.sql` - Mostra as informações relativas a horas ouvidas no ano;  
 
-Albums_more_one_hour_less_twenty_tracks.sql - Retorna álbuns com mais de 1 hora e menos de 20 faixas;
+`Most_played_albums.sql` - Mostra os 10 álbuns mais ouvidos no ano;     
 
-Artists_number_songs.sql - Mostra o número de sons registrados no banco de dados por artista;
+`Most_played_artists.sql` - Mostra os 10 artistas mais ouvidos no ano;     
 
-Longest_albums_time.sql - Retorna os álbuns com maior tempo total de duração;
-
-Longest_song_title.sql - Exibe a música com o maior número de caracteres no título;
-
-Shortest_song_names.sql - Lista as 10 músicas com os títulos mais curtos;
-
-Songs_album_less_one_hour.sql - Retorna os sons que fazem parte de álbuns com menos de uma hora de duração;
-
-Songs_featured.sql - Identifica os sons que possuem participações;
-
-Songs_groups.sql - Exibe os sons produzidos por grupos de artistas.
-
+`Most_played_songs.sql` - Mostra os 10 sons mais ouvidos no ano;     
