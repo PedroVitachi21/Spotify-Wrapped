@@ -43,7 +43,8 @@ Spotify-Wrapped/
 │ │ ├── Info_listened.sql # Informações sobre 2025
 │ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos de 2025
 │ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos de 2025
-│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos de 2025
+│ │ ├── Most_played_songs.sql # Top 10 sons mais ouvidos de 2025
+│ │ └── Total_time.sql # Tempo ouvido em 2025.
 │
 ├── Power BI/
 │ ├── README.md # Informações sobre o arquivo incluído na pasta
