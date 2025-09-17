@@ -7,6 +7,7 @@ Esta pasta contém a parte do projeto feita através do **MySQL** para análise 
 ### 🗂️ Pastas e arquivos incluídas:
 
 ```
+
 │
 ├── MySQL/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
@@ -20,4 +21,5 @@ Esta pasta contém a parte do projeto feita através do **MySQL** para análise 
 │ │ ├── Info_listened.sql # Informações sobre 2025
 │ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos de 2025
 │ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos de 2025
-│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos de 2025
+│ │ ├── Most_played_songs.sql # Top 10 sons mais ouvidos de 2025
+│ │ └── Total_time.sql # Tempo ouvido em 2025.
