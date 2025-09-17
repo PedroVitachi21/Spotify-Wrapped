@@ -1,26 +1,27 @@
 # 🎙️🎵 Spotify Wrapped 2025 🎵🎙️ 
 
-Estamos chegando ao fim de setembro, e já é possível descobrir - ou prever - os resultados que você verá no final de ano durante o seu **Spotify Wrapped**.
+Estamos chegando ao fim de setembro, e já é possível descobrir os resultados que você verá no final de ano durante o seu **Spotify Wrapped**.
 
-A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando informações semelhantes ao "evento anual".
+A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano.
 
-O projeto consiste em realizar o Spotify Wrapped em duas plataformas diferentes, o MySQL e o Power BI, utilizando de diferentes conhecimentos para obter um resultado semelhante.
+O projeto consiste em realizar o Spotify Wrapped em duas plataformas diferentes, o **MySQL** e o **Power BI**, utilizando de diferentes conhecimentos para obter um resultado semelhante.
 
-O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e manipulação dos dados, otimização dos dados e elaboração de queries analíticas. Todo o processo foi realizado em aproximadamente uma semana.
+O desenvolvimento do projeto incluiu a importação e manipulação dos dados, otimização dos dados e elaboração de queries analíticas, além da visualização dos mesmos. Todo o processo foi realizado em aproximadamente uma semana.
 
 ## 🎯 Objetivos do Projeto
 
 O objetivo principal é descobrir, ainda em setembro, as informações fornecidas pelo Spotify no final de ano, durante o Wrapped. Além disso, pode-se destacar:
-- A aplicação, na prática, de conhecimentos de SQL e PowerBI;
+- A aplicação, na prática, de conhecimentos de SQL e Power BI;
 - A análise de um banco de dados com mais de 400K inserções;
-- A otimização do conhecimento prévio em SQL.
+- A otimização do conhecimento prévio em SQL;
+- A utilização de diferentes métodos de visualização no Power BI;
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-- **MySQL** – Modelagem, criação das queries e do banco de dados;
 - **Spotify** – Fonte dos dados utilizados no projeto;
+- **MySQL** – Modelagem e criação das queries e do projeto;
 - **PowerBI** – Modelagem e visualização dos dados;
-- **GitHub** – Organização e versionamento do projeto.
+- **Git e GitHub** – Organização e versionamento do projeto.
 
 ## 💼 Estrutura do Projeto
 
@@ -40,9 +41,9 @@ Spotify-Wrapped/
 │ ├── Queries/
 │ │ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ │ ├── Info_listened.sql # Informações sobre 2025
-│ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos
-│ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos   
-│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
+│ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos de 2025
+│ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos de 2025
+│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos de 2025
 │
 ├── Power BI/
 │ ├── README.md # Informações sobre o arquivo incluído na pasta
@@ -53,7 +54,7 @@ Spotify-Wrapped/
 ## 🫂 Comentários pessoais
 Estou extremamente alegre com o resultado do projeto, especialmente por ser meu segundo projeto individual na área de dados e o primeiro aplicando conhecimentos de PowerBI obtidos em diferentes cursos.
 
-Durante o processo, encontrei diferentes desafios, envolvendo principalmente a formatação das datas, as quais eram conflitantes, e diferenças entre os valores apresentados pelo MySQL e pelo PowerBI, mesmo que eu tenha realizado a mesma modelagem e edição do mesmo banco de dados.
+Durante o processo, encontrei dois principais desafios, um envolvendo a formatação das datas, as quais eram conflitantes, e outro perante as diferenças mínimas entre os valores apresentados pelo MySQL e pelo PowerBI, mesmo que eu tenha realizado a mesma modelagem e edição do mesmo banco de dados.
 
 <div align="center">
 <table>
