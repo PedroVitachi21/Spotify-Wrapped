@@ -62,10 +62,10 @@ Durante o processo, encontrei diferentes desafios, envolvendo principalmente a f
 <table>
   <tr>
     <td align="left">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0aW1zNGtia3o3d3hoMDEzazkzYXU5cTExbDVza2lobnNwdndjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qvx8tHCGkTD7Ib2SeQ/giphy.gif" width="500">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXN0aW1zNGtia3o3d3hoMDEzazkzYXU5cTExbDVza2lobnNwdndjZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qvx8tHCGkTD7Ib2SeQ/giphy.gif" width="450">
     </td>
     <td align="right">
-        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcngzcTUwYTloZmxjZWJvdTJzbXlqaGIwbXVrZzN5bWx0ZDVyZWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="350">
+        <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcngzcTUwYTloZmxjZWJvdTJzbXlqaGIwbXVrZzN5bWx0ZDVyZWFnOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/12XxYnYLMEn6yA/giphy.gif" width="300">
     </td>
   </tr>
 </table>
