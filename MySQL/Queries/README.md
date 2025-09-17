@@ -13,3 +13,4 @@ Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados
 `Most_played_artists.sql` - Mostra os 10 artistas mais ouvidos no ano;     
 
 `Most_played_songs.sql` - Mostra os 10 sons mais ouvidos no ano;     
+

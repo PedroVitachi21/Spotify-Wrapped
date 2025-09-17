@@ -4,6 +4,8 @@ Estamos chegando ao fim de setembro, e já é possível descobrir - ou prever - 
 
 A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando informações semelhantes ao "evento anual".
 
+O projeto consiste em realizar o Spotify Wrapped em duas plataformas diferentes, o MySQL e o Power BI, utilizando de diferentes conhecimentos para obter um resultado semelhante.
+
 O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e manipulação dos dados, otimização dos dados e elaboração de queries analíticas. Todo o processo foi realizado em aproximadamente uma semana.
 
 ## 🎯 Objetivos do Projeto
@@ -15,7 +17,7 @@ O objetivo principal é descobrir, ainda em setembro, as informações fornecida
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-- **MySQL** – Modelagem, criação, escrita e otimização das queries e do banco de dados;
+- **MySQL** – Modelagem, criação das queries e do banco de dados;
 - **Spotify** – Fonte dos dados utilizados no projeto;
 - **PowerBI** – Modelagem e visualização dos dados;
 - **GitHub** – Organização e versionamento do projeto.
@@ -28,40 +30,26 @@ Spotify-Wrapped/
 │
 ├── README.md
 │
-├── Dados/
+├── MySQL/
+│ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ ├── Dados/
+│ │ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ │ ├── Delete.sql # Script para deletar dados 
+│ │ ├── Streaming_history.csv # Arquivo com os dados
+│ │ └── Table.sql # Criação da tabela
+│ ├── Queries/
+│ │ ├── README.md # Informações sobre os scripts incluídos na pasta
+│ │ ├── Info_listened.sql # Informações sobre 2025
+│ │ ├── Most_played_albums.sql # Top 10 álbuns mais ouvidos
+│ │ ├── Most_played_artists.sql # Top 10 artistas mais ouvidos   
+│ │ └── Most_played_songs.sql # Top 10 sons mais ouvidos    
+│
+├── Power BI/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
 │ ├── Indexes.sql # Índices para otimização da busca
 │ └── Updates.sql # Atualizações nos dados
-│
-├── Queries/
-│ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Tables.sql # Criação das tabelas
-│ ├── Inserts.sql # Inserção dos dados
-│ ├── Indexes.sql # Índices para otimização da busca
-│ └── Updates.sql # Atualizações nos dados
-│
-├── Wrapped/
-│ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Tables.sql # Criação das tabelas
-│ ├── Inserts.sql # Inserção dos dados
-│ ├── Indexes.sql # Índices para otimização da busca
-│ └── Updates.sql # Atualizações nos dados
-│
-├── Img/
-│ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Album_artists.sql - Informações de álbuns e artistas;   
-│ ├── Album_least_tracks.sql - Álbuns com menos faixas
-│ ├── Albums_brazil_less_fifty_minutes.sql - Álbuns brasileiros com < 50 min
-│ ├── Albums_more_one_hour_less_twenty_tracks.sql - Álbuns com +1h e <20 faixas
-│ ├── Artists_number_songs.sql - Número de sons por artista
-│ ├── Longest_albums_time.sql - Álbuns com maior tempo de duração               
-│ ├── Longest_song_title.sql - Música com o maior título
-│ ├── Shortest_song_names.sql - 10 músicas com os menores títulos
-│ ├── Songs_album_less_one_hour.sql # Sons que fazem parte de álbuns com menos de uma hora
-│ ├── Songs_featured.sql - Sons que possuem participações
-│ └── Songs_groups.sql - Sons produzidos por grupos de artistas
 
 ```
 

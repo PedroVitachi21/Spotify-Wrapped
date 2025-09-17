@@ -6,5 +6,7 @@ Esta pasta contém os arquivos responsáveis pela **criação, inserção e mani
 
 ### Arquivos incluídos:
 
-- `Table.sql` – Script para criação da tabela do banco de dados;
-- `Streaming_history.csv` – Arquivo com as informações obtidas do Spotify.
+- `Delete.sql` - Script para deletar dados "inválidos";
+- `Streaming_history.csv` – Arquivo com as informações obtidas do Spotify;
+- `Table.sql` – Script para criação da tabela do banco de dados.
+
