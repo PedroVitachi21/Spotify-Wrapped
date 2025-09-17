@@ -4,7 +4,7 @@ Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados
 
 ⚠️ Vale ressaltar que todos os scripts são escritos em SQL e compatíveis com o MySQL. 
 
-### Arquivos incluídos:
+### 🗂️ Arquivos incluídos:
 
 `Info_listened.sql` - Mostra as informações relativas a horas ouvidas no ano;  
 
