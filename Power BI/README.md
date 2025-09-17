@@ -1,16 +1,9 @@
 ## ❗Informações importantes
 
-Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados do Spotify.
+Esta pasta contém a parte do projeto feita através do **Power BI** para análise e criação do Spotify Wrapped.
 
-⚠️ Vale ressaltar que todos os scripts são escritos em SQL e compatíveis com o MySQL. 
+⚠️ Vale ressaltar que todo o arquivo é compatível com o Power BI. 
 
 ### Arquivos incluídos:
 
-`Info_listened.sql` - Mostra as informações relativas a horas ouvidas no ano;  
-
-`Most_played_albums.sql` - Mostra os 10 álbuns mais ouvidos no ano;     
-
-`Most_played_artists.sql` - Mostra os 10 artistas mais ouvidos no ano;     
-
-`Most_played_songs.sql` - Mostra os 10 sons mais ouvidos no ano;     
-
+`Wrapped.pbit` - Este arquivo contém as visualizações e as informações referentes a formulação do projeto.
