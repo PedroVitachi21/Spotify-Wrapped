@@ -46,10 +46,7 @@ Spotify-Wrapped/
 │
 ├── Power BI/
 │ ├── README.md # Informações sobre o arquivo incluído na pasta
-│ ├── Tables.sql # Criação das tabelas
-│ ├── Inserts.sql # Inserção dos dados
-│ ├── Indexes.sql # Índices para otimização da busca
-│ └── Updates.sql # Atualizações nos dados
+│ └── Spotify Wrapped 2025.pbit # Modelo Power BI.
 
 ```
 
