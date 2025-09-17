@@ -6,13 +6,6 @@ Esta pasta contém a parte do projeto feita através do **MySQL** para análise 
 
 ### Arquivos incluídos:
 
-`dados/`
+`dados/` - Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados do Spotify.
 
-Contém os arquivos de dados utilizados para popular as tabelas do banco. Aqui você encontrará:
-
-`queries/`
-
-Contém as **consultas SQL** responsáveis por gerar os insights do Spotify Wrapped. Exemplos de queries incluídas:
-
-
-Cada query foi escrita para ser reutilizável e adaptável, facilitando a análise personalizada por usuário.
+`queries/` - Esta pasta contém **consultas SQL** utilizadas para explorar os dados coletados do Spotify.
