@@ -1,8 +1,8 @@
 # 🎙️🎵 Spotify Wrapped 2025 🎵🎙️ 
 
-Ainda estamos em setembro, mas é possível já descobrir - ou prever - os resultados que você verá no final de ano durante o seu **Spotify Wrapped**.
+Estamos chegando ao fim de setembro, e já é possível descobrir - ou prever - os resultados que você verá no final de ano durante o seu **Spotify Wrapped**.
 
-A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando sons, artistas e álbuns mais ouvidos, total de tempo utilizando a plataforma e o número de músicas, álbuns e sons ouvidos.
+A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando informações semelhantes ao "evento anual".
 
 O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e manipulação dos dados, otimização dos dados e elaboração de queries analíticas. Todo o processo foi realizado em aproximadamente uma semana.
 
@@ -10,14 +10,14 @@ O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e
 
 O objetivo principal é descobrir, ainda em setembro, as informações fornecidas pelo Spotify no final de ano, durante o Wrapped. Além disso, pode-se destacar:
 - A aplicação, na prática, de conhecimentos de SQL e PowerBI;
-- A análise de um banco de dados com mais de 70K inserções;
+- A análise de um banco de dados com mais de 400K inserções;
 - A otimização do conhecimento prévio em SQL.
 
 ## 👨‍💻 Tecnologias Utilizadas
 
 - **MySQL** – Modelagem, criação, escrita e otimização das queries e do banco de dados;
 - **Spotify** – Fonte dos dados utilizados no projeto;
-- **PowerBI** – Visualização dos dados;
+- **PowerBI** – Modelagem e visualização dos dados;
 - **GitHub** – Organização e versionamento do projeto.
 
 ## 💼 Estrutura do Projeto
@@ -42,7 +42,7 @@ Spotify-Wrapped/
 │ ├── Indexes.sql # Índices para otimização da busca
 │ └── Updates.sql # Atualizações nos dados
 │
-├── Spotify Wrapped/
+├── Wrapped/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
 │ ├── Tables.sql # Criação das tabelas
 │ ├── Inserts.sql # Inserção dos dados
@@ -66,7 +66,9 @@ Spotify-Wrapped/
 ```
 
 ## 🫂 Comentários pessoais
-Estou extremamente satisfeito com o resultado deste projeto, especialmente por ser meu segundo projeto individual na área de dados e o primeiro aplicando conhecimentos de PowerBI obtidos em diferentes cursos.
+Estou extremamente alegre com o resultado do projeto, especialmente por ser meu segundo projeto individual na área de dados e o primeiro aplicando conhecimentos de PowerBI obtidos em diferentes cursos.
+
+Durante o processo, encontrei diferentes desafios, envolvendo principalmente a formatação das datas, as quais eram conflitantes, e diferenças entre os valores apresentados pelo MySQL e pelo PowerBI, mesmo que eu tenha realizado a mesma modelagem e edição do mesmo banco de dados.
 
 <div align="center">
 <table>
