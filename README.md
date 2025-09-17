@@ -56,6 +56,8 @@ Estou extremamente alegre com o resultado do projeto, especialmente por ser meu 
 
 Durante o processo, encontrei dois principais desafios, um envolvendo a formatação das datas, as quais eram conflitantes, e outro perante as diferenças mínimas entre os valores apresentados pelo MySQL e pelo PowerBI, mesmo que eu tenha realizado a mesma modelagem e edição do mesmo banco de dados.
 
+No entanto, consegui contornar tais entraves, chegando nos projetos apresentados.
+
 <div align="center">
 <table>
   <tr>
