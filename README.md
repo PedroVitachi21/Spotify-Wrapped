@@ -30,8 +30,9 @@ Spotify-Wrapped/
 │
 ├── Dados/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
-│ ├── Table.sql # Criação da tabela
-│ └── Streaming_history.csv # Arquivo com os dados
+│ ├── Delete.sql # Script para deletar dados 
+│ ├── Streaming_history.csv # Arquivo com os dados
+│ └── Table.sql # Criação da tabela
 │
 ├── Queries/
 │ ├── README.md # Informações sobre os scripts incluídos na pasta
