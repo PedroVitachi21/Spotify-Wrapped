@@ -4,6 +4,8 @@ Estamos chegando ao fim de setembro, e já é possível descobrir - ou prever - 
 
 A partir da extração do seu registro de músicas disponível pelo proprio **Spotify** - e de um leve processamento e modelagem dos dados - podemos descobrir o nosso Wrapped do final de ano, apresentando informações semelhantes ao "evento anual".
 
+O projeto consiste em realizar o Spotify Wrapped em duas plataformas diferentes, o MySQL e o Power BI, utilizando de diferentes conhecimentos para obter um resultado semelhante.
+
 O desenvolvimento do projeto incluiu a criação do banco de dados, inserção e manipulação dos dados, otimização dos dados e elaboração de queries analíticas. Todo o processo foi realizado em aproximadamente uma semana.
 
 ## 🎯 Objetivos do Projeto
@@ -15,7 +17,7 @@ O objetivo principal é descobrir, ainda em setembro, as informações fornecida
 
 ## 👨‍💻 Tecnologias Utilizadas
 
-- **MySQL** – Modelagem, criação, escrita e otimização das queries e do banco de dados;
+- **MySQL** – Modelagem, criação das queries e do banco de dados;
 - **Spotify** – Fonte dos dados utilizados no projeto;
 - **PowerBI** – Modelagem e visualização dos dados;
 - **GitHub** – Organização e versionamento do projeto.
