@@ -6,4 +6,4 @@ Esta pasta contém a parte do projeto feita através do **Power BI** para análi
 
 ### Arquivos incluídos:
 
-`Wrapped.pbit` - Este arquivo contém as visualizações e as informações referentes a formulação do projeto.
+`Spotify Wrapped 2025.pbit` - Este arquivo contém as visualizações e as informações referentes a formulação do projeto.
